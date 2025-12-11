@@ -1,5 +1,3 @@
-# tic-tac-toe-with-python-AI-
-
 # Tic Tac Toe with AI
 
 A Python-based **Tic Tac Toe game** featuring multiple play modes and a strong, nearly unbeatable **AI opponent**. This project was created as part of a college AI and Python programming assignment.
@@ -101,6 +99,11 @@ The project was tested for:
 * Sound effects & animations
 
 ---
+
+## 👥 Authors
+
+* **Mohammad Fares**
+* **Hassan Gassid**
 
 ## 📜 License
 
